@@ -19,7 +19,7 @@ def dayCountPerMonth(year, month):
 def main():
     day = 1
     month = 8
-    year = 2015
+    year = 2018
     
     while year < 2019:
         print("Date: %2d/%2d/%4d" % (day, month, year))
